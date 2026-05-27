@@ -1,5 +1,6 @@
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.gpc/grails-export)](https://central.sonatype.com/artifact/io.github.gpc/grails-export)
 [![License](https://img.shields.io/github/license/gpc/grails-export)](https://www.apache.org/licenses/LICENSE-2.0)
+![](https://img.shields.io/badge/maintenance%20status-actively%20developed-brightgreen)
 [![CI](https://github.com/gpc/grails-export/actions/workflows/ci.yml/badge.svg?event=push)](https://github.com/gpc/grails-export/actions/workflows/ci.yml)
 
 Grails Export Plugin
